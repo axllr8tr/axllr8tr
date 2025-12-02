@@ -6,8 +6,6 @@ I also have experience writing low-level C code as an exercise, such as my old [
 
 I can be reached at `axllr8tr at gmail dot com`, or on [Telegram](https://t.me/axllr8tr).
 
-> [!WARNING]
-> I am currently in process of migrating my code repositories to GitHub, so my activity graph will look a bit off. Please wait warmly.
 <!--
 **axllr8tr/axllr8tr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
